@@ -1,4 +1,4 @@
-#  Jay Chou Classifier
+#  JJ Lin Classifier
 ### Testing the model
 You can use the program we provided testme_NN.py and testme_CNN.py to test our model.
 1. clone the whole project
